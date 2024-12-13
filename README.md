@@ -4,6 +4,9 @@ This project document the process of launching EC2 instance and deploying Apache
 EC2 Instances was launched to Host the Web Application, The instance has an appropriate Amazon Machine Image (AMI) for your web Application and instance type.
 Below is the Image of my EC2 instance details that was launched
 ![EC2 instance launched](/ec2_instance1.png)
+#### Keypair Creation
+I Created a Keypair, for my EC2 instance
+![Keypair](/key_pair.png)
 
 
 
