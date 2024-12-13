@@ -5,10 +5,11 @@ EC2 Instances was launched to Host the Web Application, The instance has an appr
 Below is the Image of my EC2 instance details that was launched
 ![EC2 instance launched](/ec2_instance1.PNG)
 ![EC2 instance launched](/ec2_instance2.PNG)
+#### Successfully launched EC2 instance
 ![EC2 instance launched successfully](/ec2_instance.PNG)
 #### AMI Used
 ![AMI](/AMI.PNG)
-#### instance type used
+#### Instance type used
 ![instance type](/instance_type.PNG)
 #### Keypair Creation
 I Created a Keypair, for my EC2 instance, Below is the image of the keypair details created
